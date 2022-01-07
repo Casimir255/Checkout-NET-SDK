@@ -13,9 +13,17 @@ namespace Samples
         /*
             This method cn be used to retrieve an order by passing the order id.
          */
+
+
+
+
+
+
         public async static Task<HttpResponse> GetOrder(string orderId, bool debug = false)
         {
             OrdersGetRequest request = new OrdersGetRequest(orderId);
+
+            
 
             var response = await PayPalClient.client().Execute(request);
             var result = response.Result<Order>();

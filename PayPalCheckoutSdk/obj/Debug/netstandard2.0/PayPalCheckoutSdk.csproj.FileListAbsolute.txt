@@ -1,0 +1,9 @@
+C:\Users\Garrett Fulghum\Source\Repos\Checkout-NET-SDK\PayPalCheckoutSdk\bin\Debug\netstandard2.0\PayPalCheckoutSdk.deps.json
+C:\Users\Garrett Fulghum\Source\Repos\Checkout-NET-SDK\PayPalCheckoutSdk\bin\Debug\netstandard2.0\PayPalCheckoutSdk.dll
+C:\Users\Garrett Fulghum\Source\Repos\Checkout-NET-SDK\PayPalCheckoutSdk\bin\Debug\netstandard2.0\PayPalCheckoutSdk.pdb
+C:\Users\Garrett Fulghum\Source\Repos\Checkout-NET-SDK\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.csproj.AssemblyReference.cache
+C:\Users\Garrett Fulghum\Source\Repos\Checkout-NET-SDK\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.AssemblyInfoInputs.cache
+C:\Users\Garrett Fulghum\Source\Repos\Checkout-NET-SDK\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.AssemblyInfo.cs
+C:\Users\Garrett Fulghum\Source\Repos\Checkout-NET-SDK\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.csproj.CoreCompileInputs.cache
+C:\Users\Garrett Fulghum\Source\Repos\Checkout-NET-SDK\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.dll
+C:\Users\Garrett Fulghum\Source\Repos\Checkout-NET-SDK\PayPalCheckoutSdk\obj\Debug\netstandard2.0\PayPalCheckoutSdk.pdb
