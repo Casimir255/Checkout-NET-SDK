@@ -48,6 +48,12 @@ namespace PayPalCheckoutSdk.Subscriptions
         /// <summary>
         /// The intent to either capture payment immediately or authorize a payment for an order after order creation.
         /// </summary>
+        [DataMember(Name = "billing_info", EmitDefaultValue = false)]
+        public BillingInfo billing_info;
+
+        /// <summary>
+        /// The intent to either capture payment immediately or authorize a payment for an order after order creation.
+        /// </summary>
         [DataMember(Name = "start_time", EmitDefaultValue = false)]
         public string start_time;
 
